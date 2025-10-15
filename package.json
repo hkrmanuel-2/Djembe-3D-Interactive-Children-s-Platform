@@ -1,0 +1,23 @@
+{
+  "name": "djembe-3d_interactive_platform",
+  "version": "1.0.0",
+  "dependencies": {
+    "@react-three/drei": "^10.7.6",
+    "@react-three/fiber": "^9.4.0",
+    "react-router-dom": "^7.9.4",
+    "three": "^0.180.0",
+    "tone": "^15.1.22"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.14",
+    "vite": "^7.1.10"
+  }
+}
